@@ -1,0 +1,38 @@
+{
+  "AdminUrl": "https://linkbio.co/oetech-donasi",
+  "Marquee": "Hubungi admin untuk membeli Akses VIP  |  Hanya pengguna berbayar yang diizinkan untuk mengakses aplikasi",
+  "Users": [
+    {
+      "ID": "22A01FCA5590CF2F",
+      "Expiry": "30/12/2050"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "30/12/2050"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    }
+  ]
+}
