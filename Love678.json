@@ -1,0 +1,38 @@
+{
+  "AdminUrl": "https://wa.me/+6285822938636",
+  "Marquee": "Hanya pelanggan VIP yang diizinkan masuk  |  Hubungi admin untuk aktivasi & membeli langganan anda",
+  "Users": [
+    {
+      "ID": "22A01FCA5590CF2F",
+      "Expiry": "27/12/2025"
+    },
+    {
+      "ID": "8981E58D351652FD",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    }
+  ]
+}
