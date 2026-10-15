@@ -1,6 +1,6 @@
 {
   "AdminUrl": "https://linkbio.co/oetech-donasi",
-  "Marquee": "Hanya pelanggan VIP yang diizinkan masuk  |  Hubungi admin untuk aktivasi & membeli langganan anda",
+  "Marquee": "Hanya yang sudah melakukan payment bisa masuk  |  Hubungi admin untuk aktivasi & membeli langganan anda",
   "Users": [
     {
       "ID": "22A01FCA5590CF2F",
@@ -15,8 +15,36 @@
       "Expiry": "01/01/2030"
     },
     {
-      "ID": "FRIEND_DEVICE_ID_HERE",
-      "Expiry": "01/01/2025"
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "PASTE_ID",
+      "Expiry": "01/01/2030"
+    },
+    {
+      "ID": "3AFB1C8B255D8F76",
+      "Expiry": "01/01/2030"
     },
     {
       "ID": "FRIEND_DEVICE_ID_HERE",
